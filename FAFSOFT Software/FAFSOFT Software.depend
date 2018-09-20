@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1521147606 source:c:\users\fotie m. constant\documents\c# programs\c ba1\fafsoft software\main.c
+	<stdio.h>
+	<stdlib.h>
+	"header.h"
+
+1520701640 c:\users\fotie m. constant\documents\c# programs\c ba1\fafsoft software\header.h
+
