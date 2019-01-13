@@ -293,7 +293,7 @@ int main()
 
 
      printf("\n\n\n\t\t\t\tPlease NOTE that by validating YOU will clean ALL data you entered!!!\n");//Here below we make sure The users really wishes to quit
-        printf("\n\t\t\t\tEnter '1' to CLEAN OR '0' to council and go back to Main menu: ");
+        printf("\n\t\t\t\tEnter '1' to CLEAN OR '0' to cancel and go back to Main menu: ");
         scanf("%d", &call);
 
         while((call != 0) & (call != 1)){//Here i try to control the value of call in such a way that it will enter the loop if user enters a value which is not '0' OR '1'
@@ -334,7 +334,7 @@ int main()
     printf("\n\t\t\t\tbetter in a numeric world. It is a software that is programed to manage a police station.\n\n\n");
     printf("\n\t\t\t\t----------------------------------------------------------------------------\n\n\n\n");
     printf("\n\n\t\t\t\tINFORMATION\n");
-    printf("\n\t\t\t\tNAME: FAFPSOFT\n");
+    printf("\n\t\t\t\tNAME: FAFSOFT\n");
     printf("\n\t\t\t\tYEAR OF CREATION: 2018\n");
     printf("\n\t\t\t\tAUTHOR: The FAFPSOFT Team(GROUP ONE)\n");
     printf("\n\t\t\t\t\t\t\t\t\tDIRECTED BY: MR. FOTSA\n");
